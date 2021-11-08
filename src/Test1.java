@@ -21,6 +21,7 @@ public class Test1 {
                 result = ((double)num1) / num2;
             }
         }
+
         return result;
     }
 
